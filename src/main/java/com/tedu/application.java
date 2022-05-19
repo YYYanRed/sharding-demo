@@ -5,5 +5,6 @@ public class application {
         System.out.println("你真帅D");
         System.out.println("我更帅");
         System.out.println("你不帅");
+        System.out.println("你垃圾");
     }
 }
